@@ -11,16 +11,6 @@
        width="500" />
 </div>
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Setup & Installation](#setup--installation)
-4. [Usage](#usage)
-   * [Classification Mode](#classification-mode)
-   * [Data-Collection Mode](#data-collection-mode)
-5. [Data Collection & Session Instructions](#data-collection--session-instructions)
-6. [Troubleshooting & Errors](#troubleshooting--errors)
-
 ## Overview
 This project implements a **Human Activity Recognition (HAR)** device using a **Raspberry Pi** and an **ADXL343 accelerometer**. We trained **4 different models** on **4,281 rows of movement data** to classify the user's motion as one of:
 * **Running**
