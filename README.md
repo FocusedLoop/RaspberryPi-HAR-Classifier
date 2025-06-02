@@ -93,7 +93,7 @@ python scripts/har_device_data_collection.py
    3. Press the **button** again to end the session.
    4. Press `CTRL+C` to exit at any time.
 
-* **LED States**:
+* **LED States**
    * **ON**: Data recording in progress.
    * **OFF**: Device or sensor issue.
    * **BLINKING**: Lost MongoDB connection or database error.
