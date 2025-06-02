@@ -93,10 +93,6 @@ python scripts/har_device_data_collection.py
    3. Press the **button** again to end the session.
    4. Press `CTRL+C` to exit at any time.
 
-## Data Collection & Session Instructions
-* **Session ID**: Increment this each time you perform an activity.
-* **Movement Performed**: Keep a manual note of the movement.
-* **Time Per Session**: Aim for ~10 minutes per activity.
 * **LED States**:
    * **ON**: Data recording in progress.
    * **OFF**: Device or sensor issue.
